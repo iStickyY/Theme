@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "author": "Me",
+    "version": "0.0.1",
+    "name": "ONE PIECE 2V",
+    "transparency_mode": 3,
+    "license": "unlisence"
+  },
+  "background": {
+    "url": "https://i.ibb.co/dc0NRBc/0093c73c057a7b65688b40c77b224aaf.jpg",
+    "blur_radius": 3,
+    "overlay_alpha": 50
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {}
+}
